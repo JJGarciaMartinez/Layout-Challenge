@@ -40,7 +40,7 @@ La imagen que se ha tomado como referencia para este proyecto es la siguiente:
 ### Referencias
 
 - [Proyecto en GitHub](https://github.com/JJGarciaMartinez/Layout-Challenge)
-- [Proyecto en Netlify](https://jjgarciamartinez.netlify.app/)
+- [Deploy en Vercel](https://layout-challenge-zeta.vercel.app/)
 
 
 
